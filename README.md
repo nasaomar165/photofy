@@ -42,6 +42,7 @@ This project is an AI-powered Software as a Service (SaaS) application for image
    ```plaintext
      #NEXT
      NEXT_PUBLIC_SERVER_URL=
+   
      #MONGODB
      MONGODB_URL=
       
