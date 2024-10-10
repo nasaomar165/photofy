@@ -180,6 +180,12 @@ export const aspectRatioOptions = {
     width: 1000,
     height: 1778,
   },
+  "16:9": {
+    aspectRatio: "9:16",
+    label: "Landscape (16:9)",
+    width: 1778,
+    height: 1000,
+  },
 };
 
 export const defaultValues = {
